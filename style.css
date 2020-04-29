@@ -1,0 +1,84 @@
+.home{
+ height:1500px;   
+}
+#logo {
+    width:20%;
+    text-align:center;
+}
+
+.jumbotron {
+    background-color:;
+    background-image: linear-gradient( #3342FF, rgba(25, 63, 99,1));
+}
+
+h1.hover {
+   text-decoration:none;
+}
+
+
+#big {
+    width:400px;
+    height:300px;
+}
+
+.carousel-inner{
+    height:500px;
+}
+
+#blue {
+    width:100%;
+    height:20%;
+}
+
+#fun {
+    width:100%;
+    height:20%;
+}
+
+
+.party {
+    color:white;
+    background-color:#3342FF;
+}
+
+form {
+    margin:40px;
+}
+
+.btn {
+    width:29%;
+    font-size:20px;
+}
+
+#anna {
+    width:400px;
+    height:300px;
+}
+
+.marg{
+  margin:30px;
+}
+
+.row{
+    margin-bottom:20px;
+}
+
+/* from w3schools */
+.glow {
+  font-size: 55px;
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #3342FF, 0 0 40px #3342FF, 0 0 50px #3342FF, 0 0 60px #3342FF, 0 0 70px #3342FF;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #1E90FF, 0 0 40px #1E90FF, 0 0 50px #1E90FF, 0 0 60px #1E90FF, 0 0 70px #1E90FF, 0 0 80px #1E90FF;
+  }
+}
